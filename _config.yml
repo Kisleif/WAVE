@@ -5,6 +5,11 @@ show_downloads: false
 theme: jekyll-theme-minimal
 #remote_theme: chrisbobbe/jekyll-theme-prologue
 color-scheme: auto/light/dark
-navigation:
-  - name: Readme
-    link: ./index.html
+
+platforms:
+  - name: GitHub
+  icon: <i class="fa-brands fa-github"></i>
+  link: https://github.com/vaibhavvikas
+#navigation:
+#  - name: Readme
+#    link: ./index.html
