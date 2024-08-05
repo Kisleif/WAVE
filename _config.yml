@@ -8,8 +8,8 @@ color-scheme: auto/light/dark
 
 platforms:
   - name: GitHub
-  icon: <i class="fa-brands fa-github"></i>
-  link: https://github.com/vaibhavvikas
+    icon: <i class="fa-brands fa-github"></i>
+    link: https://github.com/vaibhavvikas
 #navigation:
 #  - name: Readme
 #    link: ./index.html
