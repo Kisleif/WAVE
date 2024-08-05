@@ -2,6 +2,6 @@ title: WAVE
 #logo: .png
 #description: text below image
 show_downloads: false
-theme: jekyll-theme-minima
-#remote_theme: chrisbobbe/jekyll-theme-prologue
+#theme: jekyll-theme-minima
+remote_theme: chrisbobbe/jekyll-theme-prologue
 
