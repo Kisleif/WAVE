@@ -30,7 +30,7 @@ layout: about
 <div style="display: flex; align-items: flex-start;">
 
 <div style="flex: 1;">
-<img src="/assets/images/Team/oliver_gerberding_round.png" alt="oliver-gerberding" width="150" height="150">
+![olgerb](/assets/images/Team/oliver_gerberding_round.png)
 </div>
 
 <div style="flex: 3; margin-left: 20px;">
