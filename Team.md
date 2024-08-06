@@ -218,7 +218,7 @@ layout: about
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <div style="flex: 0 0 150px; margin-right: 20px;">
-    ![christopher-wollin](./assets/images/Team/christopher_wolli_round.png)
+        <img src="./assets/images/Team/christopher_wolli_round.png" alt="christopher-wollin" width="150" height="150">
   </div>
   <div>
     <ul>
@@ -250,7 +250,7 @@ layout: about
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <div style="flex: 0 0 150px; margin-right: 20px;">
-    ![immo-bahns](./assets/images/Team/placeholder.png)
+            <img src="./assets/images/Team/placeholder.png" alt="immo-bahns" width="150" height="150">
   </div>
   <div>
     <ul>
