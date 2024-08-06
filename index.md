@@ -1,6 +1,10 @@
 ---
 title: WAVE - The Seismic Network in Hamburg
 layout: about
+image: 
+  path: /assets/images/Smart_City.png
+  thumbnail: /assets/images/Smart_City.png
+  caption: "WAVE Infographic"
 ---
 
 ## About us
