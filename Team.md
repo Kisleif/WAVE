@@ -11,7 +11,7 @@ layout: about
 
 ### Prof. Dr. Celine Hadziioannou
 
-![celine-hadziioannou](/assets/images/Team/celine-hadziioannou-round.png){width=150px height=150px}
+![celine-hadziioannou](/assets/images/Team/celine-hadziioannou-round.png)
 
 **Coordinator**
 
@@ -25,7 +25,7 @@ layout: about
 
 ### Prof. Dr. Oliver Gerberding
 
-![oliver-gerberding](/assets/images/Team/oliver_gerberding_round.png){width=150px height=150px}
+![oliver-gerberding](/assets/images/Team/oliver_gerberding_round.png)
 
 **Coordinator**
 
@@ -39,7 +39,7 @@ layout: about
 
 ### Antonia Kiel
 
-![antonia-kiel](/assets/images/Team/antonia_kiel_round.png){width=150px height=150px}
+![antonia-kiel](/assets/images/Team/antonia_kiel_round.png)
 
 **Affiliation:** Institute of Geophysics, University of Hamburg  
 **Interests:** Antonia Kiel works in the field of seismology and machine learning. In the context of the CLICCS excellence cluster of the University of Hamburg, she worked on monitoring shallow groundwater in the urban area using [ambient seismic noise](https://www.youtube.com/watch?v=9IATkjy-sdA&t=402s). Using the distributed acoustic sensing data of the WAVE project, she compared different unsupervised clustering methods to detect different noise sources at the fiber, coming up with a workflow under what circumstances a particular clustering method should be used.  
@@ -49,7 +49,7 @@ layout: about
 
 ### Dr. Alexander Bauer
 
-![Dr-Alexander-Bauer](/assets/images/Team/photo_bauer_200x200.png){width=150px height=150px}
+![Dr-Alexander-Bauer](/assets/images/Team/photo_bauer_200x200.png)
 
 **Affiliation:** Institute of Geophysics, University of Hamburg  
 **Website:** [ResearchGate](https://www.researchgate.net/profile/Alexander-Bauer-3)  
@@ -61,7 +61,7 @@ layout: about
 
 ### Oliver Bölt
 
-![oliver-boelt](/assets/images/Team/Oliver Bölt.png){width=150px height=150px}
+![oliver-boelt](/assets/images/Team/Oliver Bölt.png)
 
 **Affiliation:** Institute of Geophysics, University of Hamburg  
 **Website:** [Oliver Bölt Profile](https://www.geo.uni-hamburg.de/en/geophysik/personen/boelt-oliver.html)  
@@ -71,13 +71,13 @@ layout: about
 
 ## DESY
 
-![DESY](/assets/images/Logo/desy.png){width=150px height=150px}
+![DESY](/assets/images/Logo/desy.png)
 
 ---
 
 ### Dr. Holger Schlarb
 
-![holger-schlarb](/assets/images/Team/fotor-2024050716349.png){width=150px height=150px}
+![holger-schlarb](/assets/images/Team/fotor-2024050716349.png)
 
 **Coordinator**
 
@@ -90,7 +90,7 @@ layout: about
 
 ### Dr. Markus Hoffmann
 
-![markus-hoffmann](/assets/images/Team/placeholder.png){width=150px height=150px}
+![markus-hoffmann](/assets/images/Team/placeholder.png)
 
 **Affiliation:** [DESY](https://www.desy.de)
 
@@ -98,13 +98,13 @@ layout: about
 
 ## Helmut Schmidt University
 
-![Helmut Schmidt University](/assets/images/Logo/logo_HSU.png){width=150px height=150px}
+![Helmut Schmidt University](/assets/images/Logo/logo_HSU.png)
 
 ---
 
 ### Prof. Dr. Katharina-Sophie Isleif
 
-![katharina-sophie-isleif](/assets/images/Team/katharina_sophie_lief_round.png){width=150px height=150px}
+![katharina-sophie-isleif](/assets/images/Team/katharina_sophie_lief_round.png)
 
 **Coordinator**
 
@@ -118,7 +118,7 @@ layout: about
 
 ### Reinhardt Rading
 
-![Reinhardt Rading](/assets/images/Team/reinhardt.png){width=150px height=150px}
+![Reinhardt Rading](/assets/images/Team/reinhardt.png)
 
 **Affiliation:** Institute of Automation Technology at [Helmut Schmidt University](https://www.hsu-hh.de/)  
 **Website:** [Metrology Group](https://www.hsu-hh.de/mt)  
@@ -131,7 +131,7 @@ layout: about
 
 ### Wanda Vossius
 
-![wanda-vossius](/assets/images/Team/Wanda Vossius.png){width=150px height=150px}
+![wanda-vossius](/assets/images/Team/Wanda Vossius.png)
 
 **Affiliation:** HSU Metrology  
 **Website:** [HSU Metrology Team](https://www.hsu-hh.de/mt/mtteam/)  
