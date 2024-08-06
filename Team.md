@@ -3,9 +3,7 @@ title: Team
 layout: about
 ---
 
-## University of Hamburg
-
-| ![UHH](/assets/images/Logo/uni_hamburg_square.png) |  |
+| ![UHH](/assets/images/Logo/uni_hamburg_square.png) | ## University of Hamburg  |
 |:---:|---|
 
 ---
