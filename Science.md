@@ -1,4 +1,4 @@
 ---
-title: Outreach
-layout: page
+title: "Science"
+layout: about
 ---
