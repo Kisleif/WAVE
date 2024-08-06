@@ -1,5 +1,4 @@
 ---
-title: "Outreach"
 layout: page
 ---
 
