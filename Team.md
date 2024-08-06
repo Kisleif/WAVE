@@ -1,9 +1,7 @@
 ---
-title: WAVE-Hamburg Seismic Network
+title: Team
 layout: about
 ---
-
-# WAVE Team
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <div style="flex: 0 0 150px; margin-right: 20px;">
@@ -220,7 +218,7 @@ layout: about
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <div style="flex: 0 0 150px; margin-right: 20px;">
-    ![christopher-wollin](/assets/images/Team/christopher_wolli_round.png)
+    ![christopher-wollin](./assets/images/Team/christopher_wolli_round.png)
   </div>
   <div>
     <ul>
@@ -239,9 +237,10 @@ layout: about
   </div>
 </div>
 
+
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <div style="flex: 0 0 150px; margin-right: 20px;">
-    <img src="/assets/images/Logo/logo_XFEL.jpg" alt="XFEL" width="150" height="150">
+    <img src="./assets/images/Logo/logo_XFEL.jpg" alt="XFEL" width="150" height="150">
   </div>
   <div>
     <h2 style="margin-top: 0;">XFEL</h2>
@@ -251,7 +250,7 @@ layout: about
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <div style="flex: 0 0 150px; margin-right: 20px;">
-    ![immo-bahns](/assets/images/Team/placeholder.png)
+    ![immo-bahns](./assets/images/Team/placeholder.png)
   </div>
   <div>
     <ul>
