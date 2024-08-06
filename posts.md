@@ -1,5 +1,8 @@
 ---
-title: ''News''
-layout: collection
+title: News
+layout: posts
 permalink: /posts/
+entries_layout: list
 ---
+
+# News
