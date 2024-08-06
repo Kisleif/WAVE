@@ -5,13 +5,13 @@ layout: about
 
 ## University of Hamburg
 
-<img src="/assets/images/Logo/uni_hamburg_square.png" alt="UHH" width="150" height="150">
+![UHH](/assets/images/Logo/uni_hamburg_square.png)
 
 ---
 
 ### Prof. Dr. Celine Hadziioannou
 
-<img src="/assets/images/Team/celine-hadziioannou-round.png" alt="celine-hadziioannou" width="150" height="150">
+![celine-hadziioannou](/assets/images/Team/celine-hadziioannou-round.png){width=150px height=150px}
 
 **Coordinator**
 
@@ -25,7 +25,7 @@ layout: about
 
 ### Prof. Dr. Oliver Gerberding
 
-<img src="/assets/images/Team/oliver_gerberding_round.png" alt="oliver-gerberding" width="150" height="150">
+![oliver-gerberding](/assets/images/Team/oliver_gerberding_round.png){width=150px height=150px}
 
 **Coordinator**
 
@@ -39,7 +39,7 @@ layout: about
 
 ### Antonia Kiel
 
-<img src="/assets/images/Team/antonia_kiel_round.png" alt="antonia-kiel" width="150" height="150">
+![antonia-kiel](/assets/images/Team/antonia_kiel_round.png){width=150px height=150px}
 
 **Affiliation:** Institute of Geophysics, University of Hamburg  
 **Interests:** Antonia Kiel works in the field of seismology and machine learning. In the context of the CLICCS excellence cluster of the University of Hamburg, she worked on monitoring shallow groundwater in the urban area using [ambient seismic noise](https://www.youtube.com/watch?v=9IATkjy-sdA&t=402s). Using the distributed acoustic sensing data of the WAVE project, she compared different unsupervised clustering methods to detect different noise sources at the fiber, coming up with a workflow under what circumstances a particular clustering method should be used.  
@@ -49,7 +49,7 @@ layout: about
 
 ### Dr. Alexander Bauer
 
-<img src="/assets/images/Team/photo_bauer_200x200.png" alt="Dr-Alexander-Bauer" width="150" height="150">
+![Dr-Alexander-Bauer](/assets/images/Team/photo_bauer_200x200.png){width=150px height=150px}
 
 **Affiliation:** Institute of Geophysics, University of Hamburg  
 **Website:** [ResearchGate](https://www.researchgate.net/profile/Alexander-Bauer-3)  
@@ -61,7 +61,7 @@ layout: about
 
 ### Oliver Bölt
 
-<img src="/assets/images/Team/Oliver Bölt.png" alt="oliver-boelt" width="150" height="150">
+![oliver-boelt](/assets/images/Team/Oliver Bölt.png){width=150px height=150px}
 
 **Affiliation:** Institute of Geophysics, University of Hamburg  
 **Website:** [Oliver Bölt Profile](https://www.geo.uni-hamburg.de/en/geophysik/personen/boelt-oliver.html)  
@@ -71,13 +71,13 @@ layout: about
 
 ## DESY
 
-<img src="/assets/images/Logo/desy.png" alt="DESY" width="150" height="150">
+![DESY](/assets/images/Logo/desy.png){width=150px height=150px}
 
 ---
 
 ### Dr. Holger Schlarb
 
-<img src="/assets/images/Team/fotor-2024050716349.png" alt="holger-schlarb" width="150" height="150">
+![holger-schlarb](/assets/images/Team/fotor-2024050716349.png){width=150px height=150px}
 
 **Coordinator**
 
@@ -90,7 +90,7 @@ layout: about
 
 ### Dr. Markus Hoffmann
 
-<img src="/assets/images/Team/placeholder.png" alt="markus-hoffmann" width="150" height="150">
+![markus-hoffmann](/assets/images/Team/placeholder.png){width=150px height=150px}
 
 **Affiliation:** [DESY](https://www.desy.de)
 
@@ -98,13 +98,13 @@ layout: about
 
 ## Helmut Schmidt University
 
-<img src="/assets/images/Logo/logo_HSU.png" alt="Helmut Schmidt University" width="150" height="150">
+![Helmut Schmidt University](/assets/images/Logo/logo_HSU.png){width=150px height=150px}
 
 ---
 
 ### Prof. Dr. Katharina-Sophie Isleif
 
-<img src="/assets/images/Team/katharina_sophie_lief_round.png" alt="katharina-sophie-isleif" width="150" height="150">
+![katharina-sophie-isleif](/assets/images/Team/katharina_sophie_lief_round.png){width=150px height=150px}
 
 **Coordinator**
 
@@ -118,7 +118,7 @@ layout: about
 
 ### Reinhardt Rading
 
-<img src="/assets/images/Team/reinhardt.png" alt="Reinhardt Rading" width="150" height="150">
+![Reinhardt Rading](/assets/images/Team/reinhardt.png){width=150px height=150px}
 
 **Affiliation:** Institute of Automation Technology at [Helmut Schmidt University](https://www.hsu-hh.de/)  
 **Website:** [Metrology Group](https://www.hsu-hh.de/mt)  
@@ -131,7 +131,7 @@ layout: about
 
 ### Wanda Vossius
 
-<img src="/assets/images/Team/Wanda Vossius.png" alt="wanda-vossius" width="150" height="150">
+![wanda-vossius](/assets/images/Team/Wanda Vossius.png){width=150px height=150px}
 
 **Affiliation:** HSU Metrology  
 **Website:** [HSU Metrology Team](https://www.hsu-hh.de/mt/mtteam/)  
