@@ -1,6 +1,6 @@
 ---
 title: "Outreach"
-layout: about
+layout: page
 ---
 
 # Outreach

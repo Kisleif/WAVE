@@ -1,6 +1,6 @@
 ---
 title: "Science"
-layout: about
+layout: page
 ---
 
 # Science
