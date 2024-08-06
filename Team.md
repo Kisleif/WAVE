@@ -222,16 +222,51 @@ layout: about
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <div style="flex: 0 0 150px; margin-right: 20px;">
-    <img src="./assets/images/Logo/logo_GFZ.png" alt="GFZ" width="150" height="150">
+    ![christopher-wollin](/assets/images/Team/christopher_wolli_round.png)
   </div>
   <div>
-    <h2 style="margin-top: 0;">GFZ</h2>
+    <ul>
+      <li><strong>Name:</strong> Dr. Christopher Wollin</li>
+      <li><strong>Affiliation:</strong> Helmholtz Center Potsdam, German Research Center for Geosciences (GFZ)</li>
+      <li><strong>Website: </strong> <a href="https://www.gfz-potsdam.de/en/staff/christopher.wollin">gfz-potsdam.de</a></li>
+      <li><strong>Publications: </strong> <a href="https://orcid.org/0000-0002-3992-787X">ORCID</a></li>
+      <li><strong>Interests:</strong> Monitoring and Exploration with Distributed Fibre-Optic Sensing, e.g. DAS; Slow and Static Strain Monitoring; Inversion for the Crustal Stressfield; Automatic Identification and Timing of Crustal Phases; Location, Relocation, and Kinematics of Earthquakes; Multidimensional Cluster analysis; Markov-Chain Monte Carlo Methods</li>
+      <li><strong>Collaborations: </strong>
+        <ul>
+          <li><a href="https://www.gfz-potsdam.de/sektion/geophysikalische-abbildung-des-untergrunds/projekte/sense">SENSE</a></li>
+          <li><a href="https://www.gfz-potsdam.de/sektion/geoenergie/projekte/abgeschlossene-projekte-1/2019-2022-geopur">geoPuR</a></li>
+        </ul>
+      </li>
+    </ul>
+  </div>
+</div>
+
+## XFEL
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <div style="flex: 0 0 150px; margin-right: 20px;">
+    <img src="/assets/images/Logo/logo_XFEL.jpg" alt="XFEL" width="150" height="150">
+  </div>
+  <div>
+    <h2 style="margin-top: 0;">XFEL</h2>
     <hr style="width: 50px; border: 4px solid aqua; margin-top: 0; margin-bottom: 10px;" class="w3-round">
   </div>
 </div>
 
-### Dr. Christopher Wollin
+### Dr. Immo Bahns
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <div style="flex: 0 0 150px; margin-right: 20px;">
+    ![immo-bahns](/assets/images/Team/placeholder.png)
+  </div>
+  <div>
+    <ul>
+      <li><strong>Name:</strong> Dr. Immo Bahns</li>
+      <li><strong>Affiliation:</strong> <a href="https://www.xfel.eu">European XFEL</a></li>
+      <li><strong>Publications:</strong> <a href="https://www.researchgate.net/profile/Immo-Bahns">Researchgate</a>, <a href="https://orcid.org/0009-0001-6341-5508">ORCID</a></li>
+      <li><strong>Interests:</strong> Dr. Immo Bahns is an expert in the field of nondestructive interactions of powerful electromagnetic waves with Bragg reflectors, with a primary emphasis on thermoelastic wave propagation and interferometric detection. He currently holds the position of project manager for the X-ray Free Electron Laser Oscillator (XFELO) demonstrator project at the European XFEL.</li>
+    </ul>
+  </div>
+</div>
+
    
