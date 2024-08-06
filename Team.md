@@ -5,8 +5,6 @@ layout: about
 
 # WAVE Team
 
-## University of Hamburg
-
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <div style="flex: 0 0 150px; margin-right: 20px;">
     <img src="./assets/images/Logo/uni_hamburg_square.png" alt="UHH" width="150" height="150">
@@ -17,8 +15,6 @@ layout: about
   </div>
 </div>
 
-### Prof. Dr. Celine Hadziioannou
-
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <div style="flex: 0 0 150px; margin-right: 20px;">
     <img src="./assets/images/Team/celine-hadziioannou-round.png" alt="celine-hadziioannou" width="150" height="150">
@@ -26,6 +22,7 @@ layout: about
   <div>
     <h3>Coordinator</h3>
     <ul>
+     <li><strong>Name:</strong> Prof. Dr. Celine Hadziioannou</li>
       <li><strong>Affiliation:</strong> University of Hamburg</li>
       <li><strong>Website:</strong> <a href="https://celine.hadzii.com">celine.hadzii.com</a>, <a href="https://www.geo.uni-hamburg.de/en/geophysik/forschung/seismology.html">UHH Seismology</a></li>
       <li><strong>Publications:</strong> <a href="https://scholar.google.de/citations?hl=en&user=WvhdbrgAAAAJ">Google Scholar</a></li>
@@ -35,8 +32,6 @@ layout: about
   </div>
 </div>
 
-### Prof. Dr. Oliver Gerberding
-
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <div style="flex: 0 0 150px; margin-right: 20px;">
     <img src="./assets/images/Team/oliver_gerberding_round.png" alt="oliver-gerberding" width="150" height="150">
@@ -44,6 +39,7 @@ layout: about
   <div>
     <h3>Coordinator</h3>
     <ul>
+     <li><strong>Name:</strong> Prof. Dr. Oliver Gerberding</li>
       <li><strong>Affiliation:</strong> Institut für Experimentalphysik, University of Hamburg</li>
       <li><strong>Website:</strong> <a href="https://www.physik.uni-hamburg.de/iexp/gwd">Gravitational wave detection</a></li>
       <li><strong>Publications:</strong> <a href="https://scholar.google.com/citations?user=-h2HvqcAAAAJ&hl=de">Google Scholar</a>, <a href="https://orcid.org/0000-0001-7740-2698">ORCID</a></li>
@@ -60,7 +56,6 @@ layout: about
   </div>
 </div>
 
-### Antonia Kiel
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <div style="flex: 0 0 150px; margin-right: 20px;">
@@ -68,6 +63,7 @@ layout: about
   </div>
   <div>
     <ul>
+     <li><strong>Name:</strong> Antonia Kiel </li>
       <li><strong>Affiliation:</strong> Institute of Geophysics, University of Hamburg</li>
       <li><strong>Interests:</strong> Antonia Kiel works in the field of seismology and machine learning. In the context of the CLICCS excellence cluster of the University of Hamburg, she worked on monitoring shallow groundwater in the urban area using <a href="https://www.youtube.com/watch?v=9IATkjy-sdA&t=402s">ambient seismic noise</a>. Using the distributed acoustic sensing data of the WAVE project, she compared different unsupervised clustering methods to detect different noise sources at the fiber, coming up with a workflow under what circumstances a particular clustering method should be used.</li>
       <li><strong>Collaborations:</strong> <a href="https://www.cliccs.uni-hamburg.de/de.html">CLICCS</a></li>
@@ -75,14 +71,13 @@ layout: about
   </div>
 </div>
 
-### Dr. Alexander Bauer
-
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <div style="flex: 0 0 150px; margin-right: 20px;">
     <img src="./assets/images/Team/photo_bauer_200x200.png" alt="Dr-Alexander-Bauer" width="150" height="150">
   </div>
   <div>
     <ul>
+     <li><strong>Name:</strong> Dr. Alexander Bauer Vossius</li>
       <li><strong>Affiliation:</strong> Institute of Geophysics, University of Hamburg</li>
       <li><strong>Website:</strong> <a href="https://www.researchgate.net/profile/Alexander-Bauer-3">Researchgate</a></li>
       <li><strong>Publications:</strong> <a href="https://scholar.google.de/citations?user=yxmye-sAAAAJ">Google Scholar</a></li>
@@ -92,22 +87,19 @@ layout: about
   </div>
 </div>
 
-### Oliver Bölt
-
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <div style="flex: 0 0 150px; margin-right: 20px;">
     <img src="./assets/images/Team/Oliver Bölt.png" alt="oliver-boelt" width="150" height="150">
   </div>
   <div>
     <ul>
+     <li><strong>Name:</strong> Oliver B\"olt</li>
       <li><strong>Affiliation:</strong> Institute of Geophysics, University of Hamburg</li>
       <li><strong>Website:</strong> <a href="https://www.geo.uni-hamburg.de/en/geophysik/personen/boelt-oliver.html">Oliver Bölt Profile</a></li>
       <li><strong>Interests:</strong> Oliver Bölt is a doctoral researcher in the field of machine learning in geophysics. Using deep learning and seismic interferometry, he worked on determining transfer functions of seismic data. His current work focuses on applying machine learning methods to large distributed acoustic sensing datasets with the aim of automatically detecting and classifying different types of seismic signals.</li>
     </ul>
   </div>
 </div>
-
-## DESY
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <div style="flex: 0 0 150px; margin-right: 20px;">
@@ -119,8 +111,6 @@ layout: about
   </div>
 </div>
 
-### Dr. Holger Schlarb
-
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <div style="flex: 0 0 150px; margin-right: 20px;">
     <img src="./assets/images/Team/fotor-2024050716349.png" alt="holger-schlarb" width="150" height="150">
@@ -128,7 +118,8 @@ layout: about
   <div>
     <h3>Coordinator</h3>
     <ul>
-      <li><strong>Affiliation:</strong> Deutsches Elektronen-Synchrotron (DESY)</li>
+     <li><strong>Name:</strong> Dr. Holger Schlarb</li>
+     <li><strong>Affiliation:</strong> Deutsches Elektronen-Synchrotron (DESY)</li>
       <li><strong>Website:</strong> <a href="https://msk.desy.de/">Machine Beam Control group</a>, <a href="https://www.desy.de/index_eng.html">desy.de</a></li>
       <li><strong>Publications:</strong> <a href="https://msk.desy.de/e88991/e89336/index_ger.html">Scientific Journal Articles</a>, <a href="https://orcid.org/0000-0003-4115-5183">ORCID</a></li>
       <li><strong>Interests:</strong> Holger Schlarb and his group MSK are responsible for the longitudinal and transverse beam stabilization systems of accelerators at DESY, covering a wide field ranging from femtosecond synchronization, special beam diagnostics, precision, real-time RF and beam feedback controls. Since environmental impacts of seismic and acoustic noise on accelerators can be severe, even a limiting factor for certain accelerator parameters, research using seismometer and iDAS to better understand, to be able to predict and ideally to mitigate vibrational noise source has become a new research focus in the accelerator beam controls group MSK.</li>
@@ -136,7 +127,6 @@ layout: about
   </div>
 </div>
 
-### Dr. Markus Hoffmann
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <div style="flex: 0 0 150px; margin-right: 20px;">
@@ -144,12 +134,12 @@ layout: about
   </div>
   <div>
     <ul>
+     <li><strong>Name:</strong> Dr. Markus Hoffmann Vossius</li>
       <li><strong>Affiliation:</strong> <a href="https://www.desy.de">DESY</a></li>
     </ul>
   </div>
 </div>
 
-## Helmut Schmidt University
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <div style="flex: 0 0 150px; margin-right: 20px;">
@@ -161,8 +151,6 @@ layout: about
   </div>
 </div>
 
-### Prof. Dr. Katharina-Sophie Isleif
-
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <div style="flex: 0 0 150px; margin-right: 20px;">
     <img src="./assets/images/Team/katharina_sophie_lief_round.png" alt="katharina-sophie-isleif" width="150" height="150">
@@ -170,6 +158,7 @@ layout: about
   <div>
     <h3>Coordinator</h3>
     <ul>
+     <li><strong>Name:</strong> Prof. Dr. Katharina-Sophie Isleif</li>
       <li><strong>Affiliation:</strong> Institute of Automation Technology at <a href="https://www.hsu-hh.de/">Helmut Schmidt University</a></li>
       <li><strong>Website:</strong> <a href="https://www.hsu-hh.de/mt">Metrology Group</a></li>
       <li><strong>Publications:</strong> <a href="https://scholar.google.com/citations?hl=de&user=5clbTvsAAAAJ&view_op=list_works&sortby=pubdate">Google Scholar</a></li>
@@ -179,7 +168,6 @@ layout: about
   </div>
 </div>
 
-### Reinhardt Rading
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <div style="flex: 0 0 150px; margin-right: 20px;">
@@ -187,6 +175,7 @@ layout: about
   </div>
   <div>
     <ul>
+     <li><strong>Name:</strong> Reinhardt Rading</li>
       <li><strong>Affiliation:</strong> Institute of Automation Technology at <a href="https://www.hsu-hh.de/">Helmut Schmidt University</a></li>
       <li><strong>Website:</strong> <a href="https://www.hsu-hh.de/mt">Metrology Group</a></li>
       <li><strong>Personal Website:</strong> <a href="https://reinhardtrading.com/">reinhardtrading.com</a></li>
@@ -197,7 +186,6 @@ layout: about
   </div>
 </div>
 
-### Wanda Vossius
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <div style="flex: 0 0 150px; margin-right: 20px;">
@@ -205,6 +193,7 @@ layout: about
   </div>
   <div>
     <ul>
+     <li><strong>Name:</strong> Wanda Vossius</li>
       <li><strong>Affiliation:</strong> HSU Metrology</li>
       <li><strong>Website:</strong> <a href="https://www.hsu-hh.de/mt/mtteam/">HSU Metrology Team</a></li>
       <li><strong>Interests:</strong> Wanda Vossius works on fibre sensors for Newtonian noise mitigation in the Einstein Telescope. She is also involved in outreach activities within the WAVE project.</li>
@@ -218,7 +207,16 @@ layout: about
   </div>
 </div>
 
-## GFZ
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <div style="flex: 0 0 150px; margin-right: 20px;">
+    <img src="./assets/images/Logo/logo_GFZ.png" alt="GFZ Potsdam" width="150" height="150">
+  </div>
+  <div>
+    <h2 style="margin-top: 0;">GFZ Potsdam</h2>
+    <hr style="width: 50px; border: 4px solid aqua; margin-top: 0; margin-bottom: 10px;" class="w3-round">
+  </div>
+</div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <div style="flex: 0 0 150px; margin-right: 20px;">
@@ -241,8 +239,6 @@ layout: about
   </div>
 </div>
 
-## XFEL
-
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <div style="flex: 0 0 150px; margin-right: 20px;">
     <img src="/assets/images/Logo/logo_XFEL.jpg" alt="XFEL" width="150" height="150">
@@ -252,8 +248,6 @@ layout: about
     <hr style="width: 50px; border: 4px solid aqua; margin-top: 0; margin-bottom: 10px;" class="w3-round">
   </div>
 </div>
-
-### Dr. Immo Bahns
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <div style="flex: 0 0 150px; margin-right: 20px;">
