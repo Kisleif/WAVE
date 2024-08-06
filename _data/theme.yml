@@ -50,6 +50,6 @@ google_fonts:
 
 navigation_pages:
   - about.md
-  - science.md
-  - outreach.md
+  - Science.md
+  - Outreach.md
   - posts.md
