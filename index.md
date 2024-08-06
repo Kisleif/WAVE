@@ -5,13 +5,6 @@ image:
   path: /assets/images/Smart_City.png
   thumbnail: /assets/images/Smart_City.png
   caption: "WAVE Infographic"
-actions:
-  - label: "Get Started"
-    icon: github
-    url: "https://github.com/mmistakes/jekyll-theme-basically-basic"
-  - label: "Download"
-    icon: download
-    url: "https://github.com/mmistakes/jekyll-theme-basically-basic/archive/master.zip"
 ---
 
 
@@ -24,4 +17,11 @@ The WAVE concept has been tested under realistic conditions to demonstrate the f
 
 Since then, we have expanded the network to currently 19 km of fiber, organized several [Outreach events and Livestreams](Outreach.md) of the data, including during a Taylor Swift concert. We hold regular Workshops and other events, and of course we also use the data for a range of interdisciplinary Scientific analysis!
 
+---
+actions:
+  - label: "More about WAVE"
+    icon: download
+    url: "https://kisleif.github.io/WAVE/about.html"
+ --- 
+ 
 More information about the network, technology and infrastructure can be found [here](about.md).
