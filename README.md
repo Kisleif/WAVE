@@ -1,4 +1,4 @@
-# WAVE
+# WAVE - a seismic network in Hamburg
 
 ## About us 
 
