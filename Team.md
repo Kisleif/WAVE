@@ -3,17 +3,15 @@ title: Team
 layout: about
 ---
 
-
 ## University of Hamburg
 
-![UHH](/assets/images/Logo/uni_hamburg_square.png)
-
+<img src="/assets/images/Logo/uni_hamburg_square.png" alt="UHH" width="150" height="150">
 
 ---
 
 ### Prof. Dr. Celine Hadziioannou
 
-![celine-hadziioannou](/assets/images/Team/celine-hadziioannou-round.png)
+<img src="/assets/images/Team/celine-hadziioannou-round.png" alt="celine-hadziioannou" width="150" height="150">
 
 **Coordinator**
 
@@ -27,7 +25,7 @@ layout: about
 
 ### Prof. Dr. Oliver Gerberding
 
-![oliver-gerberding](/assets/images/Team/oliver_gerberding_round.png)
+<img src="/assets/images/Team/oliver_gerberding_round.png" alt="oliver-gerberding" width="150" height="150">
 
 **Coordinator**
 
@@ -41,7 +39,7 @@ layout: about
 
 ### Antonia Kiel
 
-![antonia-kiel](/assets/images/Team/antonia_kiel_round.png)
+<img src="/assets/images/Team/antonia_kiel_round.png" alt="antonia-kiel" width="150" height="150">
 
 **Affiliation:** Institute of Geophysics, University of Hamburg  
 **Interests:** Antonia Kiel works in the field of seismology and machine learning. In the context of the CLICCS excellence cluster of the University of Hamburg, she worked on monitoring shallow groundwater in the urban area using [ambient seismic noise](https://www.youtube.com/watch?v=9IATkjy-sdA&t=402s). Using the distributed acoustic sensing data of the WAVE project, she compared different unsupervised clustering methods to detect different noise sources at the fiber, coming up with a workflow under what circumstances a particular clustering method should be used.  
@@ -51,7 +49,7 @@ layout: about
 
 ### Dr. Alexander Bauer
 
-![Dr-Alexander-Bauer](/assets/images/Team/photo_bauer_200x200.png)
+<img src="/assets/images/Team/photo_bauer_200x200.png" alt="Dr-Alexander-Bauer" width="150" height="150">
 
 **Affiliation:** Institute of Geophysics, University of Hamburg  
 **Website:** [ResearchGate](https://www.researchgate.net/profile/Alexander-Bauer-3)  
@@ -63,7 +61,7 @@ layout: about
 
 ### Oliver Bölt
 
-![oliver-boelt](/assets/images/Team/Oliver Bölt.png)
+<img src="/assets/images/Team/Oliver Bölt.png" alt="oliver-boelt" width="150" height="150">
 
 **Affiliation:** Institute of Geophysics, University of Hamburg  
 **Website:** [Oliver Bölt Profile](https://www.geo.uni-hamburg.de/en/geophysik/personen/boelt-oliver.html)  
@@ -73,13 +71,13 @@ layout: about
 
 ## DESY
 
-![DESY](/assets/images/Logo/desy.png)
+<img src="/assets/images/Logo/desy.png" alt="DESY" width="150" height="150">
 
 ---
 
 ### Dr. Holger Schlarb
 
-![holger-schlarb](/assets/images/Team/fotor-2024050716349.png)
+<img src="/assets/images/Team/fotor-2024050716349.png" alt="holger-schlarb" width="150" height="150">
 
 **Coordinator**
 
@@ -92,7 +90,7 @@ layout: about
 
 ### Dr. Markus Hoffmann
 
-![markus-hoffmann](/assets/images/Team/placeholder.png)
+<img src="/assets/images/Team/placeholder.png" alt="markus-hoffmann" width="150" height="150">
 
 **Affiliation:** [DESY](https://www.desy.de)
 
@@ -100,14 +98,13 @@ layout: about
 
 ## Helmut Schmidt University
 
-![Helmut Schmidt University](/assets/images/Logo/logo_HSU.png)
-
+<img src="/assets/images/Logo/logo_HSU.png" alt="Helmut Schmidt University" width="150" height="150">
 
 ---
 
 ### Prof. Dr. Katharina-Sophie Isleif
 
-![katharina-sophie-isleif](/assets/images/Team/katharina_sophie_lief_round.png)
+<img src="/assets/images/Team/katharina_sophie_lief_round.png" alt="katharina-sophie-isleif" width="150" height="150">
 
 **Coordinator**
 
@@ -121,7 +118,7 @@ layout: about
 
 ### Reinhardt Rading
 
-![Reinhardt Rading](/assets/images/Team/reinhardt.png)
+<img src="/assets/images/Team/reinhardt.png" alt="Reinhardt Rading" width="150" height="150">
 
 **Affiliation:** Institute of Automation Technology at [Helmut Schmidt University](https://www.hsu-hh.de/)  
 **Website:** [Metrology Group](https://www.hsu-hh.de/mt)  
@@ -134,7 +131,9 @@ layout: about
 
 ### Wanda Vossius
 
-![wanda-vossius](/assets/images/Team/Wanda Vossius.png)
+<img src="/assets/images/Team/Wanda Vossius.png" alt="wanda-vossius" width="150" height="150">
 
 **Affiliation:** HSU Metrology  
-**Website:** [HSU Metrology Team](https://www.h
+**Website:** [HSU Metrology Team](https://www.hsu-hh.de/mt/mtteam/)  
+**Interests:** Wanda Vossius works on fiber sensors for Newtonian noise mitigation in the Einstein Telescope. She is also involved in outreach activities within the WAVE project.  
+**Collaborations:** [Einstein Telescope Collaboration](https://www.et-gw.eu/), [LIGO Scientific Collaboration](https://www.ligo.org/)
