@@ -8,7 +8,7 @@ layout: about
 <div style="display: flex; align-items: flex-start;">
 
 <div style="flex: 1;">
-<img src="/assets/images/Logo/uni_hamburg_square.png" alt="UHH" width="150" height="150">
+<img src="./assets/images/Logo/uni_hamburg_square.png" alt="UHH" width="150" height="150">
 </div>
 
 <div style="flex: 3; margin-left: 20px;">
@@ -59,7 +59,7 @@ layout: about
 <div style="display: flex; align-items: flex-start;">
 
 <div style="flex: 1;">
-<img src="/assets/images/Team/antonia_kiel_round.png" alt="antonia-kiel" width="150" height="150">
+<img src="./assets/images/Team/antonia_kiel_round.png" alt="antonia-kiel" width="150" height="150">
 </div>
 
 <div style="flex: 3; margin-left: 20px;">
@@ -79,7 +79,7 @@ layout: about
 <div style="display: flex; align-items: flex-start;">
 
 <div style="flex: 1;">
-<img src="/assets/images/Team/photo_bauer_200x200.png" alt="Dr-Alexander-Bauer" width="150" height="150">
+<img src="./assets/images/Team/photo_bauer_200x200.png" alt="Dr-Alexander-Bauer" width="150" height="150">
 </div>
 
 <div style="flex: 3; margin-left: 20px;">
@@ -101,7 +101,7 @@ layout: about
 <div style="display: flex; align-items: flex-start;">
 
 <div style="flex: 1;">
-<img src="/assets/images/Team/Oliver Bölt.png" alt="oliver-boelt" width="150" height="150">
+<img src="./assets/images/Team/Oliver Bölt.png" alt="oliver-boelt" width="150" height="150">
 </div>
 
 <div style="flex: 3; margin-left: 20px;">
@@ -121,7 +121,7 @@ layout: about
 <div style="display: flex; align-items: flex-start;">
 
 <div style="flex: 1;">
-<img src="/assets/images/Logo/desy.png" alt="DESY" width="150" height="150">
+<img src="./assets/images/Logo/desy.png" alt="DESY" width="150" height="150">
 </div>
 
 <div style="flex: 3; margin-left: 20px;">
@@ -137,7 +137,7 @@ layout: about
 <div style="display: flex; align-items: flex-start;">
 
 <div style="flex: 1;">
-<img src="/assets/images/Team/fotor-2024050716349.png" alt="holger-schlarb" width="150" height="150">
+<img src="./assets/images/Team/fotor-2024050716349.png" alt="holger-schlarb" width="150" height="150">
 </div>
 
 <div style="flex: 3; margin-left: 20px;">
