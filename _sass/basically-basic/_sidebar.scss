@@ -10,19 +10,21 @@
   max-width: $sidebar-width;
   height: 100%;
   z-index: 50;
-  visibility: hidden;
-  -webkit-transition: visibility 0s 0.3s;
-  transition: visibility 0s 0.3s;
+  visibility: visible; /* Ensure the sidebar is always visible */
+  /* Remove transition for visibility */
+  /* -webkit-transition: visibility 0s 0.3s; */
+  /* transition: visibility 0s 0.3s; */
 
   @include breakpoint($large) {
     max-width: (1.5 * $sidebar-width);
   }
 
-  &.is--visible {
+   /* Remove is--visible state dependency */
+  /* &.is--visible {
     visibility: visible;
     -webkit-transition: visibility 0s 0s;
     transition: visibility 0s 0s;
-  }
+  } */
 
   li {
     -webkit-transform: translateX(-1rem);
@@ -126,6 +128,11 @@
 }
 
 .sidebar-toggle-wrapper {
+  display: none; /* Hide the toggle button */
+}
+
+
+/*.sidebar-toggle-wrapper {
   position: absolute;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -157,6 +164,23 @@
     -webkit-box-align: center;
     align-items: center;
   }
+}*/
+
+.sidebar > .inner {
+  width: 100%;
+  height: 100%;
+  padding: 1.5em;
+  background-color: $sidebar-background-color;
+  overflow-x: hidden;
+  box-shadow: inset -1em 0 5em 0 rgba(0, 0, 0, 0.125);
+
+  @include breakpoint($medium) {
+    padding: 3rem;
+  }
+}
+
+.content {
+  margin-left: $sidebar-width; /* Ensure content is not hidden by sidebar */
 }
 
 .sidebar-toggle-label {
